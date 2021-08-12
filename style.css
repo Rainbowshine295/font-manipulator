@@ -1,0 +1,32 @@
+body {
+    background-image: url("17db6ab9cc5de961693e0135e8525ae6\ \(1\).jpg");
+    font-family: 'Nunito', sans-serif;
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 18px grey;
+}
+
+.note {
+    font-size: 15px;
+    color: floralwhite;
+}
+
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    color: floralwhite;
+    width: 100%;
+    background-color: red;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas {
+    border: 5px solid pink;
+    border-radius: 20px;
+    box-shadow: 5px 5px 18px gainsboro;
+}
